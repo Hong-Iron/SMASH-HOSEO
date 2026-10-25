@@ -20,5 +20,66 @@
   "kakaoKey": "ff20552a5a51bc1fe0e0ecdecd217f35",
   "goatcounter": "https://sassafras.goatcounter.com/count",
   "supabaseUrl": "https://qohxhopinnwrzrgxrdvj.supabase.co",
-  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g"
+  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g",
+  "look": {
+    "호서벤처벨리": {
+      "style": "glass",
+      "wall": "#c0c8cc",
+      "glass": "#3c6255",
+      "frame": "#8a9094"
+    },
+    "제1공학관": {
+      "style": "stone",
+      "wall": "#d6d0c4",
+      "glass": "#4a5058",
+      "frame": "#e6e2d8",
+      "hip": true,
+      "roof": "#6a7078"
+    },
+    "체육관": {
+      "style": "stone",
+      "wall": "#c4c6c2",
+      "glass": "#3e4850",
+      "frame": "#b98d65"
+    },
+    "예술관": {
+      "style": "stone",
+      "wall": "#e2dcd6",
+      "glass": "#4a5a62",
+      "frame": "#e8e4de"
+    },
+    "제2공학관": {
+      "style": "stone",
+      "wall": "#b8b8b4",
+      "glass": "#3a4048",
+      "frame": "#8a8c90"
+    },
+    "성재도서관": {
+      "style": "stone",
+      "wall": "#d6d8de",
+      "glass": "#1e4766",
+      "frame": "#b0b4bc"
+    },
+    "벤처산업협력관": {
+      "style": "glass",
+      "wall": "#d8dcde",
+      "glass": "#4c88b3",
+      "frame": "#c8ccd0"
+    },
+    "강석규교육관": {
+      "style": "stone",
+      "wall": "#d8d0c8",
+      "glass": "#4a5662",
+      "frame": "#e6e0d8",
+      "hip": true,
+      "roof": "#6e747c"
+    },
+    "교육문화관": {
+      "style": "glass",
+      "wall": "#c8ccd0",
+      "glass": "#4b7289",
+      "frame": "#9aa4ac"
+    }
+  },
+  "lookSource": "학교 공식 캠퍼스맵·건물 안내 사진과 위키미디어 공용 사진의 색만 참고. 사진 픽셀은 쓰지 않음"
 }
