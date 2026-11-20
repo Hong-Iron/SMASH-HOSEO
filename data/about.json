@@ -1,0 +1,34 @@
+{
+ "region": "충남 아산시 배방읍 세출리",
+ "nameEn": "Hoseo University Asan Campus",
+ "added": "2026-10-24T16:30",
+ "rank": 51,
+ "total": 337,
+ "nearby": [
+  {
+   "code": "SUNMOON",
+   "campus": "선문대학교 아산캠퍼스",
+   "km": 7.0
+  },
+  {
+   "code": "NAZARENE",
+   "campus": "나사렛대학교",
+   "km": 7.9
+  },
+  {
+   "code": "KNPU",
+   "campus": "경찰대학",
+   "km": 10.9
+  },
+  {
+   "code": "U1-ASAN",
+   "campus": "유원대학교 아산캠퍼스",
+   "km": 13.1
+  },
+  {
+   "code": "SCH",
+   "campus": "순천향대학교",
+   "km": 13.4
+  }
+ ]
+}
